@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🔭 I’m currently studying at the University of Utah and learning about Large Language Models and how to use them for practical applications
+- 🔭 I’m currently studying at the University of Utah as a Master's student in Computer Science
 - 🌱 I’m currently learning Graduate Algorithms, Natural Language Processing
 - 👯 I’m looking for Software Development or Research Internship Roles
 - 💬 Ask me about Python , C++, Java and Springboot
